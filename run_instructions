@@ -1,0 +1,4 @@
+lex scanner.l
+yacc -d parser.y
+cc lex.yy.c y.tab.c -o parse.exe
+./parse.exe < test.t
