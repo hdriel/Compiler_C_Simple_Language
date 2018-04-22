@@ -6,9 +6,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// Student: 
-// Hadriel Benjo - 302185061 
-// Semion phifman- 317743425
 
 typedef enum type{
 	CHAR,		// 'a', 'b' , …
