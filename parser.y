@@ -2,10 +2,6 @@
 #include <stdarg.h>
 #include "parse.h"
 
-// Student: 
-// Hadriel Benjo - 302185061 
-// Semion phifman- 317743425
-
 // function declarations
 int yylex(void);
 void yyerror(char *);
