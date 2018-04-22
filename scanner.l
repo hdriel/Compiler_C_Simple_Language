@@ -6,9 +6,7 @@
 	extern int yylineno;
 	extern char* yytext;
 	
-// Student: 
-	// Hadriel Benjo - 302185061 
-	// Semion phifman- 317743425
+
 %}
 
 %%
